@@ -5,11 +5,11 @@ Welcome to my Python Programming Hands-On repository! In this repository, you wi
 
 # Table of Contents
 
-Getting Started
-Topics Covered
-How to Use This Repository
-Contributing
-License
+- Getting Started
+- Topics Covered
+- How to Use This Repository
+- Contributing
+- License
 
 # Getting Started
 If you're new to Python programming, this hands-on guide is a great place to start. Follow these steps to get started:
@@ -26,14 +26,14 @@ Browse through the directories and files to access Python code examples and exer
 # Topics Covered
 This repository covers fundamental Python programming concepts, including:
 
-Variables and Data Types
-Control Flow (if statements, loops)
-Functions
-Lists, Tuples, and Dictionaries
-File Handling
-Exception Handling
-Object-Oriented Programming (OOP) basics
-Each topic includes hands-on exercises to reinforce your understanding.
+- Variables and Data Types
+- Control Flow (if statements, loops)
+- Functions
+- Lists, Tuples, and Dictionaries
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP) basics
+- Each topic includes hands-on exercises to reinforce your understanding.
 
 # How to Use This Repository
 1. Explore the Topics:
