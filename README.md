@@ -1,62 +1,34 @@
-# Python-Programming
+# Basic Python Programming Portfolio
 
-# Overview
-Welcome to my Python Programming Hands-On repository! In this repository, you will find a collection of basic Python programming exercises and examples designed to help Python starters build a strong foundation in the language.
+Welcome to my GitHub repository showcasing my foundational Python programming skills. This portfolio covers key concepts including Python variables, data structures, descriptive statistics, and object-oriented programming. Additionally, I've applied these skills to real-world scenarios in projects like Hotel Booking Cancellation and Super Store.
 
-# Table of Contents
+## Projects
 
-- Getting Started
-- Topics Covered
-- How to Use This Repository
-- Contributing
-- License
+### 1. Hotel Booking Cancellation Analysis
 
-# Getting Started
-If you're new to Python programming, this hands-on guide is a great place to start. Follow these steps to get started:
+- **Description:** Analyzing hotel booking data to understand cancellation patterns and factors influencing booking outcomes.
+- **Technologies:** Python, Pandas, NumPy, Descriptive Statistics.
 
-# Clone the Repository:
-git clone https://github.com/your-username/python-hands-on.git
+### 2. Super Store Management System
 
-# Navigate to the Repository:
-cd python-hands-on
+- **Description:** Implementing a basic super store management system using object-oriented programming principles.
+- **Technologies:** Python, Object-Oriented Programming.
 
-# Explore the Content:
-Browse through the directories and files to access Python code examples and exercises.
+## Getting Started
 
-# Topics Covered
-This repository covers fundamental Python programming concepts, including:
+To explore the projects and run the code locally, follow these steps:
 
-- Variables and Data Types
-- Control Flow (if statements, loops)
-- Functions
-- Lists, Tuples, and Dictionaries
-- File Handling
-- Exception Handling
-- Object-Oriented Programming (OOP) basics
-- Each topic includes hands-on exercises to reinforce your understanding.
+1. Clone the repository:
 
-# How to Use This Repository
-1. Explore the Topics:
-Navigate through the directories based on the topic you want to learn or practice.
+   ```bash
+   git clone https://github.com/your-username/basic-python-portfolio.git
 
-2. Read the Instructions:
-Each directory contains a README file with instructions for the exercises.
+2. Navigate to the project directory:
 
-3. Run the Code:
-Open the Python files using your preferred code editor and run the code to see the examples in action.
+   ```bash
+   cd basic-python-portfolio/project-name
 
-4. Complete the Exercises:
-Practice the hands-on exercises provided in each topic's directory.
+4. Run the Python script:
 
-# Contributing
-If you'd like to contribute to this repository by adding new exercises, improving existing content, or fixing bugs, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them with clear and concise commit messages.
-4. Push your changes to your fork.
-5. Submit a pull request.
-6. Your contributions are highly appreciated!
-
-# License
-This Python Programming Hands-On repository is licensed under the MIT License.
+   ```bash
+   python main.py
